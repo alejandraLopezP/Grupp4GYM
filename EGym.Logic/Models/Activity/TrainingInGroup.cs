@@ -8,7 +8,8 @@ namespace EGym.Logic.Models.Activity
 {
     public class TrainingInGroup : Activity
     {
-        public TrainingInGroup(DateTime startTime, DateTime bookningDate, int duration) : base(startTime, bookningDate, duration, id)
+        public TrainingInGroup(DateTime startTime, DateTime bookningDate, int duration, int id) 
+                : base(startTime, bookningDate, duration, id)
         {
 
         }

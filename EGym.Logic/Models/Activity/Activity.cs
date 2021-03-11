@@ -13,7 +13,7 @@ namespace EGym.Logic.Models.Activity
         public int Duration { get; set; }
         public int Id { get; set; }
 
-        public Activity(DateTime startTime, DateTime bookningDate, int duration, int id)
+        public Activity(DateTime startTime, DateTime bookningDate, int duration , int id)
         {
             this.StartTime = startTime;
             this.BookingDate = bookningDate;

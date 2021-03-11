@@ -8,3 +8,13 @@ C:\Users\allop\source\Repos\EGym\EGym.Logic\bin\Debug\BookSleeve.dll
 C:\Users\allop\source\Repos\EGym\EGym.Logic\bin\Debug\BookSleeve.pdb
 C:\Users\allop\source\Repos\EGym\EGym.Logic\bin\Debug\BookSleeve.xml
 C:\Users\allop\source\Repos\EGym\EGym.Logic\obj\Debug\EGym.Logic.csproj.CopyComplete
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\obj\Debug\EGym.Logic.csprojAssemblyReference.cache
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\obj\Debug\EGym.Logic.csproj.CoreCompileInputs.cache
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\obj\Debug\EGym.Logic.dll
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\obj\Debug\EGym.Logic.pdb
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\bin\Debug\EGym.Logic.dll
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\bin\Debug\EGym.Logic.pdb
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\bin\Debug\BookSleeve.dll
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\bin\Debug\BookSleeve.pdb
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\bin\Debug\BookSleeve.xml
+C:\Programming\Projekt\Gym\Grupp4GYM\EGym.Logic\obj\Debug\EGym.Logic.csproj.CopyComplete

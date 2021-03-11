@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BookSleeve, Version=1.3.41.0, Culture=neutral, PublicKeyToken=9056fda458ff61cf, processorArchitecture=MSIL">
+      <HintPath>..\packages\BookSleeve.1.3.41\lib\BookSleeve.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,17 +46,23 @@
   <ItemGroup>
     <Compile Include="EGym.cs" />
     <Compile Include="Infrastructure\DataManagerDB.cs" />
-    <Compile Include="Infrastructure\DataManagerOnline.cs" />
     <Compile Include="Infrastructure\DataManagerSimulator.cs" />
     <Compile Include="Infrastructure\IDataManager.cs" />
     <Compile Include="Models\Activity\Activity.cs" />
+    <Compile Include="Models\Activity\ConsultationWithTrainer.cs" />
+    <Compile Include="Models\Activity\IndividualTraining.cs" />
+    <Compile Include="Models\Activity\IndividualWithTrainer.cs" />
+    <Compile Include="Models\Activity\TrainingInGroup.cs" />
     <Compile Include="Models\Machine\Machine.cs" />
     <Compile Include="Models\People\Client.cs" />
     <Compile Include="Models\People\Trainer.cs" />
     <Compile Include="Models\Relations\Booking.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\RAreaGym.cs" />
     <Compile Include="Utilities\Utility.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

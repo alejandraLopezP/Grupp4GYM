@@ -8,3 +8,6 @@ C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\obj\Debug\EGym.ConsoleUI.csproj.
 C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\obj\Debug\EGym.ConsoleUI.csproj.CopyComplete
 C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\obj\Debug\EGym.ConsoleUI.exe
 C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\obj\Debug\EGym.ConsoleUI.pdb
+C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\bin\Debug\BookSleeve.dll
+C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\bin\Debug\BookSleeve.pdb
+C:\Users\allop\source\Repos\EGym\EGym.ConsoleUI\bin\Debug\BookSleeve.xml

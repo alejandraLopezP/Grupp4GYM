@@ -15,7 +15,7 @@ namespace EGym.Logic.Models.Activity
 
         public override string GetActivityType()
         {
-            return "TrainingGroup";
+            return "Hello TrainingGroup";
         }
     }
 }

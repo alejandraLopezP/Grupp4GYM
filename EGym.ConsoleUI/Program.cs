@@ -32,7 +32,7 @@ namespace EGym.ConsoleUI
                         bool wasPossible = gym.RegisterClient(id, name);
                         if (wasPossible)
                         {
-                            Console.WriteLine("Client create successfully!");
+                            Console.WriteLine("Client create successfully! Your id is: {0}", id);
                         }
                         else
                         {
@@ -54,6 +54,7 @@ namespace EGym.ConsoleUI
                         PrintMenu();
                         string option = Console.ReadLine();
                         BuildAction(option, gym);
+                        Console.WriteLine("Successful booking!");
                         break;
                     case "Q":
                         Console.WriteLine("Thanks for using our App!");

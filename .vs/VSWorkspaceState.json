@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EGym.ConsoleUI",
+    "\\EGym.Logic",
+    "\\EGym.Logic\\Infrastructure",
+    "\\EGym.Logic\\Models",
+    "\\EGym.Logic\\Models\\Activity"
   ],
-  "SelectedNode": "\\EGym.sln",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\EGym.ConsoleUI\\Program.cs",
+  "PreviewInSolutionExplorer": true
 }
